@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Remanth8/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Remanth8/leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Remanth8/leetcode/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Remanth8/leetcode/tree/master/0037-sudoku-solver) |
+| [0322-coin-change](https://github.com/Remanth8/leetcode/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Remanth8/leetcode/tree/master/0037-sudoku-solver) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Remanth8/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
