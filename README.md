@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Remanth8/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/Remanth8/leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Remanth8/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Remanth8/leetcode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Remanth8/leetcode/tree/master/0037-sudoku-solver) |
 | [0322-coin-change](https://github.com/Remanth8/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Remanth8/leetcode/tree/master/0518-coin-change-ii) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Remanth8/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Remanth8/leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
