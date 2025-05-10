@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Remanth8/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Remanth8/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Remanth8/leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Remanth8/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Remanth8/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Remanth8/leetcode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Remanth8/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Remanth8/leetcode/tree/master/0039-combination-sum) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Remanth8/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Remanth8/leetcode/tree/master/0018-4sum) |
 ## Tree
 |  |
