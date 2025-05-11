@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Remanth8/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Remanth8/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/Remanth8/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Remanth8/leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Remanth8/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Remanth8/leetcode/tree/master/0518-coin-change-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Remanth8/leetcode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Remanth8/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Remanth8/leetcode/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/Remanth8/leetcode/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/Remanth8/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Remanth8/leetcode/tree/master/0518-coin-change-ii) |
 ## Hash Table
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Remanth8/leetcode/tree/master/0101-symmetric-tree) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Remanth8/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
