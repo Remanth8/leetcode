@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Remanth8/leetcode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Remanth8/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Remanth8/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Remanth8/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Remanth8/leetcode/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/Remanth8/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Remanth8/leetcode/tree/master/0518-coin-change-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Remanth8/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Remanth8/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Remanth8/leetcode/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |
